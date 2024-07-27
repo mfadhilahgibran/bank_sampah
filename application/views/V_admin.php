@@ -11,7 +11,7 @@
         <table id="nasabah" class="table table-bordered table-striped">
             <thead>
                 <tr>
-                    <th>No</th>
+                    <th>No.</th>
                     <th>NIA</th>
                     <th>Kata Sandi</th>
                     <th>Nama</th>
